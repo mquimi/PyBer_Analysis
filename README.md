@@ -9,5 +9,8 @@ The datasets that were provided also allowed me to calculate total rides, total 
 Being able to provide the graphs and statistcal metrics allows stockholders to visualize the rideshare data that can help the company improve any services and even determine affordability for certain cities and neighborhoods.
 
 
-###Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-###Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+### Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+
+
+
+### Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
